@@ -5,5 +5,5 @@
 @tailwind utilities;
 
 body {
-  @apply font-saira;
+  @apply font-saira bg-dark_eaire_black text-anti_flash_white;
 }
